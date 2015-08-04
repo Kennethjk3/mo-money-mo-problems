@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "mo-money-mo-problems",
   "version": "0.1.0",
   "description": "Budgetting, ftw",
@@ -32,5 +33,15 @@
     "transform": [
       ["reactify"]
   ]
+=======
+  "name": "something",
+  "devDependencies" : {
+    "browserify": "~> 10.2.4",
+    "browserify-incremental": "^3.0.1"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+>>>>>>> fdb8bf782ced44a405a3ccb273e76ab0664c4267
   }
 }
